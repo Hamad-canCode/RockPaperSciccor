@@ -1,0 +1,8 @@
+body{
+    background-image: url('img/radiant-gradient.svg');
+    background-size: cover;
+}
+.Img{
+    height: 150px;
+    width: 150px;
+}
